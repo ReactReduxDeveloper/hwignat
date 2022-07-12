@@ -1,3 +1,39 @@
 .message {
+    display: flex;
+    align-items: center;
+    background-color: #A8E700;
+}
 
+.imgsize img {
+    width: 50px;
+    border-radius: 50%;
+}
+
+.Blockformessage {
+    width: 200px;
+    min-height: 50px;
+    border: 1px solid #002200;
+    background-color: #002200;
+    margin: 10px;
+    border-radius: 5px;
+
+
+}
+
+.nameColor {
+    color: #7F6FEB;
+    margin-left: 15px;
+
+}
+
+.messageColor {
+    color: white;
+    margin-left: 15px
+}
+
+.Timecolor {
+    color: white;
+    text-align: end;
+    display: block;
+    padding-right: 12px;
 }

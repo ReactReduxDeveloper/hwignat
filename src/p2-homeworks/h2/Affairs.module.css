@@ -1,3 +1,7 @@
 .someClass {
 
 }
+.affairs {
+    display:flex;
+    align-items: center;
+}
