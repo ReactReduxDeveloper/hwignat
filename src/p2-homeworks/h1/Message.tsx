@@ -9,6 +9,7 @@ function Message(props: messageDataType) {
             <div className={s.imgsize}>
                 <img src={props.avatar}/>
             </div>
+            <div className={s.Angle}/>
             <div className={s.Blockformessage}>
                 <div className={s.nameColor}>{props.name}<br/></div>
                 <div className={s.messageColor}>

@@ -1,7 +1,37 @@
 .someClass {
 
 }
-.affairs {
+.Display {
     display:flex;
-    align-items: center;
+    width:30%
+}
+.Display div{
+    flex: 1 1 30%;
+}
+.Button {
+    background-color: greenyellow;
+    color:#002200;
+    cursor: pointer;
+}
+.Active {
+    background-color: darkorange;
+    cursor: pointer;
+}
+.DeleteButton {
+    width:60px;
+    height: 20px;
+    background-color: greenyellow;
+    cursor: pointer;
+}
+.TextColor {
+    color:darkgreen;
+}
+.high{
+    color: red;
+}
+.middle {
+    color:orange;
+}
+.low {
+    color:darkmagenta;
 }
