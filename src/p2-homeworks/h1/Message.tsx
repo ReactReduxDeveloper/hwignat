@@ -3,7 +3,6 @@ import {messageDataType} from "./HW1";
 import s from './Message.module.css'
 
 function Message(props: messageDataType) {
-    debugger
     return (
         <div className={s.message}>
             <div className={s.imgsize}>
