@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/hwignat/static/css/main.ffed7198.chunk.css",
-    "main.js": "/hwignat/static/js/main.8e424a2d.chunk.js",
-    "main.js.map": "/hwignat/static/js/main.8e424a2d.chunk.js.map",
+    "main.js": "/hwignat/static/js/main.f8bb603f.chunk.js",
+    "main.js.map": "/hwignat/static/js/main.f8bb603f.chunk.js.map",
     "runtime-main.js": "/hwignat/static/js/runtime-main.33347327.js",
     "runtime-main.js.map": "/hwignat/static/js/runtime-main.33347327.js.map",
-    "static/js/2.49dd329c.chunk.js": "/hwignat/static/js/2.49dd329c.chunk.js",
-    "static/js/2.49dd329c.chunk.js.map": "/hwignat/static/js/2.49dd329c.chunk.js.map",
+    "static/js/2.0643037d.chunk.js": "/hwignat/static/js/2.0643037d.chunk.js",
+    "static/js/2.0643037d.chunk.js.map": "/hwignat/static/js/2.0643037d.chunk.js.map",
     "index.html": "/hwignat/index.html",
-    "precache-manifest.665bc6a0bf80b8032933ab873d5e2d14.js": "/hwignat/precache-manifest.665bc6a0bf80b8032933ab873d5e2d14.js",
+    "precache-manifest.b3f02e4046c2694a96a4ae168cf751fd.js": "/hwignat/precache-manifest.b3f02e4046c2694a96a4ae168cf751fd.js",
     "service-worker.js": "/hwignat/service-worker.js",
     "static/css/main.ffed7198.chunk.css.map": "/hwignat/static/css/main.ffed7198.chunk.css.map",
-    "static/js/2.49dd329c.chunk.js.LICENSE.txt": "/hwignat/static/js/2.49dd329c.chunk.js.LICENSE.txt"
+    "static/js/2.0643037d.chunk.js.LICENSE.txt": "/hwignat/static/js/2.0643037d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.33347327.js",
-    "static/js/2.49dd329c.chunk.js",
+    "static/js/2.0643037d.chunk.js",
     "static/css/main.ffed7198.chunk.css",
-    "static/js/main.8e424a2d.chunk.js"
+    "static/js/main.f8bb603f.chunk.js"
   ]
 }
