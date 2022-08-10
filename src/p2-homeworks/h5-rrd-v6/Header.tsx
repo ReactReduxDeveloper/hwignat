@@ -8,9 +8,15 @@ function Header() {
         <div className={s.dropdown}>
             <div className={s.dropbtn}/>
             <div className={s.dropdownContent}>
-                <NavLink className={s.Navlink} to={PATH.PRE_JUNIOR}>PRE_JUNIOR</NavLink>
-                <NavLink className={s.Navlink} to={PATH.JUNIOR}>JUNIOR</NavLink>
-                <NavLink className={s.Navlink} to={PATH.JUNIOR_PLUS}>JUNIOR_PLUS</NavLink>
+                <NavLink style={(params)=>{
+                    return {color:params.isActive ? "red" : ""}
+                }} className={s.Navlink} to={PATH.PRE_JUNIOR}>PRE_JUNIOR</NavLink>
+                <NavLink style={(params)=>{
+                    return {color:params.isActive ? "red" : ""}
+                }} className={s.Navlink} to={PATH.JUNIOR}>JUNIOR</NavLink>
+                <NavLink style={(params)=>{
+                    return {color:params.isActive ? "red" : ""}
+                }} className={s.Navlink} to={PATH.JUNIOR_PLUS}>JUNIOR_PLUS</NavLink>
 
             </div>
         </div>
